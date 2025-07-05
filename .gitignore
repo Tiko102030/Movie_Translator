@@ -1,2 +1,10 @@
 Input_Movies/
 vocals_only/
+audio_chunks/
+original_transcribed/
+separated/
+translated_transcribed/
+tts_results/
+output/
+chunk_times.csv
+deepl_api_key
