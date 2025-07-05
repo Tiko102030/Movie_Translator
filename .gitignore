@@ -8,3 +8,4 @@ tts_results/
 output/
 chunk_times.csv
 deepl_api_key
+final_combined.wav
